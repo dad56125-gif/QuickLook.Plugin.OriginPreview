@@ -1,0 +1,6 @@
+*.dll
+*.qlplugin
+*.zip
+__pycache__/
+*.pyc
+
